@@ -1,6 +1,5 @@
 # Uncovering Why Customers Leave: Bank Churn Analysis
-
-![Churn Dashboard](visualizations/churn_dashboard.png)  
+ 
 *A snapshot of the story: Visualizing why bank customers churn using Power BI.*
 
  📖 The Story Begins: Why This Matters
@@ -18,6 +17,7 @@ Customer churn represents a significant challenge for banks, directly impacting 
 
 This analysis aims to identify specific customer segments at highest risk, understand behavioral patterns preceding churn, and develop data-driven retention strategies to reduce the 20.37% churn rate.
 
+![image](https://github.com/user-attachments/assets/1e474d8a-81ea-4fd9-8b04-51460d60d1fa)
 
 🎯 The Quest: Project Goals
 My mission was clear: identify the key drivers of churn and empower the bank with insights to act on.
